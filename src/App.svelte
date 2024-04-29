@@ -8,6 +8,7 @@
     feminine: false,
   };
   let pre;
+  let logoUrl = "https://telecom-etude.github.io/signature/logo_telecom_etude.png";
 </script>
 
 <main>
@@ -58,7 +59,7 @@
               <img
                 width="100"
                 height="100"
-                src="https://perso.telecom-paristech.fr/croyer/ressources/logo.png"
+                src={logoUrl}
                 alt="Logo Telecom Etude"
               />
             </a>
@@ -111,7 +112,7 @@
 					<img
 						width="100"
 						height="100"
-						src="https://perso.telecom-paristech.fr/croyer/ressources/logo.png"
+						src="${logoUrl}"
 						alt="Logo Telecom Etude"
 					/>
 				</a>
