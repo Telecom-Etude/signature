@@ -1,4 +1,4 @@
-# signature
+# Site to create Telecom Etude's signature
 
 - [https://telecom-etude.github.io/signature/](https://telecom-etude.github.io/signature/)
 
